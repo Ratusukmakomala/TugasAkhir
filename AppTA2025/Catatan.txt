@@ -1,0 +1,17 @@
+Output 2 (Diterima/Tidak)
+Import file
+Label Encoder, MinMax Scaler, Logic Algo Random Forest, Akurasi Confusion
+
+
+Solusi error di TERMINAL VS CODE:
+Jalankan dulu python -m streamlit run Aplikasi_Penerimaan_Siswa_Baru.py
+masukkan email pribadi gkpp
+
+1. pip install streamlit
+2. pip install --upgrade pip
+3. pip install scikit-learn --user
+4. pip install seaborn --user
+5. pip install openpyxl --user
+6. pip install xlsxwriter --user
+7. pip install plotly --user
+
